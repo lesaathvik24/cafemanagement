@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cafemanagement/static/css/main.15e47337.css",
+    "main.js": "/cafemanagement/static/js/main.3f7bb10d.js",
+    "static/media/9.jpeg": "/cafemanagement/static/media/9.259ad2527a20e9439269.jpeg",
+    "static/media/15.jpeg": "/cafemanagement/static/media/15.2dfb769179a3e68ce34b.jpeg",
+    "static/media/6.png": "/cafemanagement/static/media/6.6d83c4e9b71a936f4634.png",
+    "static/media/20.webp": "/cafemanagement/static/media/20.d53a04e90e27e23956e5.webp",
+    "static/media/8.jpeg": "/cafemanagement/static/media/8.fff5c080b37caca5a145.jpeg",
+    "static/media/22.jpeg": "/cafemanagement/static/media/22.23780f1fe64c6f05dbd3.jpeg",
+    "static/media/1.jpeg": "/cafemanagement/static/media/1.d64261ea24565d8ea201.jpeg",
+    "static/media/2.jpeg": "/cafemanagement/static/media/2.b1136c5b8f707be6706c.jpeg",
+    "static/media/12.jpeg": "/cafemanagement/static/media/12.d65523bdd600ae871d15.jpeg",
+    "static/media/10.jpeg": "/cafemanagement/static/media/10.43eea25a5b83a9116d89.jpeg",
+    "static/media/7.jpeg": "/cafemanagement/static/media/7.d5a2249f0d00f5b4ea53.jpeg",
+    "static/media/18.jpeg": "/cafemanagement/static/media/18.9bcac47752eb89011164.jpeg",
+    "static/media/3.jpeg": "/cafemanagement/static/media/3.ba3eed88370c9b2da7c7.jpeg",
+    "static/media/5.webp": "/cafemanagement/static/media/5.f33b91a5685d83698f8f.webp",
+    "static/media/17.webp": "/cafemanagement/static/media/17.e03ab7529a6c7e50814f.webp",
+    "static/media/11.jpeg": "/cafemanagement/static/media/11.274398e1c83eadde4ef1.jpeg",
+    "static/media/14.jpeg": "/cafemanagement/static/media/14.2cabbdabd09778ccd1bf.jpeg",
+    "static/media/16.webp": "/cafemanagement/static/media/16.e078a0694ff0dde1ee86.webp",
+    "static/media/21.jpeg": "/cafemanagement/static/media/21.65d39ba8ddf668dffd73.jpeg",
+    "static/media/4.webp": "/cafemanagement/static/media/4.0648e165c47decee855e.webp",
+    "static/media/13.webp": "/cafemanagement/static/media/13.38b7acd1e21cb8387e17.webp",
+    "static/media/19.webp": "/cafemanagement/static/media/19.4793fe797b398107d3c5.webp",
+    "index.html": "/cafemanagement/index.html",
+    "main.15e47337.css.map": "/cafemanagement/static/css/main.15e47337.css.map",
+    "main.3f7bb10d.js.map": "/cafemanagement/static/js/main.3f7bb10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e47337.css",
+    "static/js/main.3f7bb10d.js"
+  ]
+}
